@@ -1,4 +1,10 @@
-### Olá! Sou jvsas1
+### Olá! Sou jvsas1 
+<p>Sou um desenvolvedor Front-end em
+formação e busco oportunidades para trabalhar como
+desenvolvedor Junior, onde poderei aplicar meus
+conhecimentos em HTML, CSS e JS. </p>
+<p>Aqui deixarei todos os projetos que estou estudando e desenvolvendo durante minha jornada para se tornar um desenvolvedor Front-End</p>
+
 <div style="display: inline_block"><br>
   <h2>Linguagens que utilizo</h2>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
