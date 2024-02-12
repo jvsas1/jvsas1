@@ -1,5 +1,5 @@
 ### João Victor dos Santos
-<p>Olá! Sou João victor, tenho 26 anos,trabalho como análista de dados, e estou cursando Gestão de Tecnologia da Informação. Aqui no meu Github</p>
+<p>Olá! Sou João victor, tenho 26 anos,trabalho como análista de dados, e estou cursando Gestão de Tecnologia da Informação.</p>
 <p>Aqui deixarei todos os projetos que desenvolvi como práticas e estudos para minha jornada como análista e cientista de dados.</p>
 <p>Em paralelo, possuo conhecimentos prévios na área de Front-End e costumo deixar algumas das minhas práticas aqui.</p>
 
