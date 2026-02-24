@@ -1,22 +1,31 @@
-### João Victor dos Santos
-<p>Olá! Sou João victor, tenho 26 anos,trabalho como análista de dados, e estou cursando Gestão de Tecnologia da Informação.</p>
-<p>Aqui deixarei todos os projetos que desenvolvi como práticas e estudos para minha jornada como análista e cientista de dados.</p>
-<p>Em paralelo, possuo conhecimentos prévios na área de Front-End e costumo deixar algumas das minhas práticas aqui.</p>
+# João Victor dos Santos Alves Sá
 
-<div style="display: inline_block"><br>
-  <h2>Linguagens que utilizo</h2>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## 🇧🇷 Sobre mim
+Sou **Analista de Dados Pleno**, com **3–4 anos de experiência**, atuando com **Python, SQL e arquitetura de dados**. Tenho experiência em transformar dados em **insights acionáveis** e atualmente estou aprofundando meus estudos em **Engenharia de Dados**, com foco em **pipelines de dados**, **automação** e **soluções escaláveis**.
+
+## Principais competências
+- **SQL** 
+- **Python** 
+- **Arquitetura de dados** 
+- **Dashboards & BI**
+- 
+## 
+- Projetos de **Análise de Dados**
+- Projetos práticos de **Engenharia de Dados**
+- Estudos, experimentos e automações com Python e SQL
+
+---
+
+## 🇺🇸 About me
+I am a **Mid-level Data Analyst** with **3–4 years of experience**, working with **Python, SQL, and data architecture**. I have experience turning data into **actionable insights** and I am currently deepening my knowledge in **Data Engineering**, focusing on **data pipelines**, **automation**, and **scalable data solutions**.
+
+## Core skills
+- **SQL** 
+- **Python** 
+- **Data architecture** 
+- **Dashboards & BI**
   
-  ##
- 
-<div> 
-  <a href="https://instagram.com/jvsas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jvalvessa@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-aaa4a5197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## What you’ll find here
+- **Data Analysis** projects
+- Hands-on **Data Engineering** projects
+- Experiments, studies, and automations using Python and SQL
