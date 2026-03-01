@@ -8,7 +8,7 @@ Sou **Analista de Dados Pleno**, com **3–4 anos de experiência**, atuando com
 - **Python** 
 - **Arquitetura de dados** 
 - **Dashboards & BI**
-- 
+  
 ## 
 - Projetos de **Análise de Dados**
 - Projetos práticos de **Engenharia de Dados**
